@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-01-13 at 16 41 29_1225bba3](https://github.com/Alfredovale/UAS-ALFREDOVC-41520110011-MOPROG/assets/153951528/e7854853-1818-4053-b66e-37eef9c61df5)Judul aplikasi ini adalah Pemesanan Makanan Online Berbasis Aplikasi Android.
+Judul aplikasi ini adalah Pemesanan Makanan Online Berbasis Aplikasi Android.
 Cara Instalasi :
 
 Download file project dan harap dipastikan semua file terdownload.
